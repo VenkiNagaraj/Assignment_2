@@ -7,3 +7,6 @@ The dataset can be used to train a model that predicts whether a water sample is
 
 1. Logistic Regression
 Used cross-validation setting in scikit learn to prevent overfitting.
+
+2. Decision tree's
+Looks like the dataset has non-linearity in it and needs a model that supports it and since decision trees can learn non-linear data well it shows really good results compared to LR.
