@@ -3,7 +3,7 @@
 Predicting whether a water sample is **safe to drink** with five classification models, compared on six evaluation metrics and served through an interactive Streamlit app.
 
 - **GitHub repository:** https://github.com/VenkiNagaraj/Assignment_2
-- **Live Streamlit app:** _add the link here after deployment_
+- **Live Streamlit app:** https://assignment2-whafdh4fhtpnugqcdputq8.streamlit.app/
 
 ---
 
